@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "20948697808",
+    "firebase_url": "https://online-chat-app-3c942.firebaseio.com",
+    "project_id": "online-chat-app-3c942",
+    "storage_bucket": "online-chat-app-3c942.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20948697808:android:c00dee076d16b2bc3e94d5",
+        "android_client_info": {
+          "package_name": "com.fawadahmed.chatui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20948697808-90jkto24066dst1o0oa8vmtm6sgdo7jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8MtP7T9qYn7vHgOSRJvNFnVcKFuWF61o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20948697808-90jkto24066dst1o0oa8vmtm6sgdo7jm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
